@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\bin\Debug\Ejemplo01_13Septiembre.exe.config
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\bin\Debug\Ejemplo01_13Septiembre.exe
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\bin\Debug\Ejemplo01_13Septiembre.pdb
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\bin\Debug\Ejemplo01_13Septiembre.xml
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\obj\Debug\Ejemplo01_13Septiembre.vbproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\obj\Debug\Ejemplo01_13Septiembre.Resources.resources
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\obj\Debug\Ejemplo01_13Septiembre.vbproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\obj\Debug\Ejemplo01_13Septiembre.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\obj\Debug\Ejemplo01_13Septiembre.exe
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\obj\Debug\Ejemplo01_13Septiembre.xml
+C:\Users\Alumno\source\repos\Ejemplo01_13Septiembre\Ejemplo01_13Septiembre\obj\Debug\Ejemplo01_13Septiembre.pdb

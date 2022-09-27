@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\obj\Debug\Ejemplo06_20Septiembre.vbproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\obj\Debug\Ejemplo06_20Septiembre.Resources.resources
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\obj\Debug\Ejemplo06_20Septiembre.vbproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\obj\Debug\Ejemplo06_20Septiembre.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\bin\Debug\Ejemplo06_20Septiembre.exe.config
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\bin\Debug\Ejemplo06_20Septiembre.exe
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\bin\Debug\Ejemplo06_20Septiembre.pdb
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\bin\Debug\Ejemplo06_20Septiembre.xml
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\obj\Debug\Ejemplo06_20Septiembre.exe
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\obj\Debug\Ejemplo06_20Septiembre.xml
+C:\Users\Alumno\source\repos\Ejemplo06_20Septiembre\Ejemplo06_20Septiembre\obj\Debug\Ejemplo06_20Septiembre.pdb
